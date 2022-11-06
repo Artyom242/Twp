@@ -265,7 +265,7 @@ margin-bottom: 22px;
 }
 
 .block_search__question::before {
-    content: url(/img/header/Oval.png);
+    content: url(img/header/Oval.png);
     margin: 0  23px 0  0;
 }
 .block_search__question {
@@ -384,7 +384,7 @@ margin-bottom: 22px;
     color: #000000;
 }
 .more:after{
-    content:url(/img/icon/Shape.png);
+    content:url(img/icon/Shape.png);
     padding-left: 26px;
 }
 .more {
@@ -432,7 +432,7 @@ margin-bottom: 22px;
     color: #006DFE;
 }
 .trip_link::after{
-    content: url(/img/icon/Shape.png);
+    content: url(img/icon/Shape.png);
     padding-left: 26px;
 }
 .block_trip_cards{
@@ -634,11 +634,11 @@ max-width: 519px;
     text-align: center;
 }
 .like::after{
-    content: url(/img/main/like.png);
+    content: url(img/main/like.png);
     margin-left: 10px;
 }
 .comm::after{
-    content: url(/img/main/com.png);
+    content: url(img/main/com.png);
     margin-left: 10px;
 }
 .places_text{
